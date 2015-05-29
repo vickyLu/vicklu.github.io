@@ -1,0 +1,34 @@
+body {
+	background-image: url("cloudpic2.jpg");
+    background-size: cover;
+    display: block;
+    background-repeat: none;
+}
+ul li {
+	display:block;
+ }
+h1{
+   text-align: center;
+   color: yellow;
+}   
+p {
+	color:;
+}
+
+h2 {
+	background-color: purple;
+}
+section {
+    background :url();
+    width:900px;
+    margin:auto 20em auto 20em;
+}  
+li {
+	color: white;
+}
+header{
+	background-image: url("better2.jpeg");
+	background-display: block;
+	size:300px;
+}
+header h1 {background-display:block;}
